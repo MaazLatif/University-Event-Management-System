@@ -2,11 +2,4 @@
 
 For BSE OOSE Course we are developing this project to automate the envents happening in universities.
 
-Object-oriented software is a programming paradigm that has gained significant popularity and is widely used in the development of modern applications. It provides a structured approach to designing and organizing code by representing real-world entities as objects with their own data and behaviors. This methodology focuses on encapsulation, inheritance, and polymorphism, enabling developers to build robust, modular, and reusable software systems.
-
-Why Study Object-Oriented Software:
-
-Studying object-oriented software is essential for both aspiring and experienced programmers for several reasons:
-
-Modularity and Reusability: Object-oriented programming allows developers to break down complex systems into smaller, self-contained modules (objects), making it easier to manage and maintain code. These modules can be reused in different parts of the program or in other projects, saving time and effort.
-
+The University Event Management System is a web-based platform designed to simplify the process of planning, organizing and managing various events within a university. The system offers a range of features which allow university administrators, event planners and other stakeholders to effectively plan and manage events, such as workshops, seminars, ceremonies, and conferences. Through this system, users can easily create, manage and share event schedules, track attendance, manage budgets, and receive feedback from attendees. The system is designed to streamline the event management process, making it easier to plan and execute successful events. By utilizing the University Event Management System, university administrators can save time, reduce costs, and improve the overall experience of the events they organize. The system is user-friendly, simple to use, and easy to access - making it an ideal solution for busy administrators and event planners in the university environment.
